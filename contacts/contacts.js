@@ -9,6 +9,11 @@ const contacts = [
         name: "María García", 
         email: "maria.garcia@email.com",
         phone: "+34 987 654 321"
+    },
+    {
+        name: "Carlos López",
+        email: "carlos.lopez@email.com", 
+        phone: "+34 555 123 456"
     }
 ];
 
